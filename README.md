@@ -5,4 +5,4 @@ Python notebooks for the tutorial paper on feature selection
 ### Data Files
 - `penguins.csv` from https://github.com/allisonhorst/palmerpenguins
 - `segmentation.all` from https://archive.ics.uci.edu/ml/datasets/Image+Segmentation
-- `Harry-Potter.csv` created by the authors
+- `HarryPotterTT.csv` created by the authors
