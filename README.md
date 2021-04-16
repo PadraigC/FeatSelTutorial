@@ -4,7 +4,8 @@ Python notebooks for the tutorial paper on feature selection
 - **FS-Filters:** Code for using I-Gain and Chi-square Filters from `scikit-learn`. 
 - **FS-ReliefF:** Code for using ReliefF Filters from `skrebate`.
 - **FS-D-Tree:** Building D-Trees with embedded feature selction using `scikit-learn`.
-- F**S-Random-Forest:** Feature importance from Random Forest using `scikit-learn`.
+- **FS-Lasso** Feature selection for Logistic Regression using `scikit-learn`.
+- **FS-Random-Forest:** Feature importance from Random Forest using `scikit-learn`.
 
  
 ### Data Files
