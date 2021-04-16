@@ -7,6 +7,8 @@ Python notebooks for the tutorial paper on feature selection
 - **FS-Lasso** Feature selection for Logistic Regression using `scikit-learn`.
 - **FS-Random-Forest:** Feature importance from Random Forest using `scikit-learn`.
 - **FS-PCA:** Principal Component Analysis using the PCA implementation in `scikit-learn`.
+- **FS-LDA:** Linear Discriminant Analysis using the LDA implementation in `scikit-learn`.
+
 
 
  
