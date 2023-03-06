@@ -5,6 +5,7 @@ Python notebooks for the tutorial paper on feature selection
 - **FS-Permutation-FI:** Code for using Permutation Feature Importance Filters from `scikit-learn`. 
 - **FS-D-Tree:** Building D-Trees with embedded feature selction using `scikit-learn`.
 - **FS-Lasso:** Feature selection for Logistic Regression using `scikit-learn`.
+- **FS-Permutation+Wrapper:** A two stage strategy using Permutation FI and Wrapper.
 - **FS-ReliefF:** Code for using ReliefF Filters from `skrebate`.
 - **FS-Random-Forest:** Feature importance from Random Forest using `scikit-learn`.
 - **FS-CFS:** Correlation Based feature importance using code from from https://github.com/jundongl/scikit-feature.
